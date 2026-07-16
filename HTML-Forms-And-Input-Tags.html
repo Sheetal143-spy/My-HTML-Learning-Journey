@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+
+<body>
+    <h2>This is HTML Forms tutorial</h2>
+    <!-- Actually mai div tag ke andar label lagana jaruri hai per bhi ke liye mei div tag ke bahar label lagai hu -->
+    <!-- Saare input fields aur buttons form ke andar hona chaihiye -->
+    <form action="backend.php">
+        <label for="name"> NAME</label>
+        <div>
+            <input type="text" name="My NAME" id="name">
+        </div>
+        <br>
+        <label for="role"> ROLE</label>
+        <div>
+            <input type="text" name="My ROLE" id="role">
+        </div>
+        <br>
+        <label for="email"> EMAIL</label>
+        <div>
+            <input type="email" name="My EMAIL" id="email">
+        </div>
+        <br>
+        <label for="date"> DATE</label>
+        <div>
+            <input type="date" name="My DATE" id="date">
+        </div>
+        <br>
+        <label for="bonus"> BONUS</label>
+        <div>
+            <!-- BONUS mai sirf number aur "e" letter hi type ho sakta h aur kuch nahi -->
+            <input type="number" name="My BONUS" id="bonus">
+        </div>
+        <br>
+        <label for="eligible"> ARE YOU ELIGIBLE?</label>
+        <div>
+            <input type="checkbox" name="My ELIGIBILITY" id="eligible">
+        </div>
+        <br>
+        <label for="gender"> GENDER</label>
+        <div>
+            MALE<input type="radio" name="My GENDER"> FEMALE<input type="radio" name="My GENDER"> OTHER<input
+                type="radio" name="My GENDER" id="gender">
+        </div>
+        <br>
+        <label for="about">WRITE ABOUT YOURSELF</label>
+        <div>
+
+            <textarea name="my text" cols="30" rows="10" id="about"></textarea>
+        </div>
+        <br>
+        <label for="car">Car</label>
+        <div>
+            <select name="my car" id="car">
+                <option value="ind">INDICA</option>
+                <option value="swf">SWIFT</option>
+            </select>
+        </div>
+        <br>
+        <!-- select option banate time pura input field select tag ke andar hi rahata hai -->
+        <div>
+            <input type="reset" value="reset now">
+        </div>
+        <br>
+        <div>
+            <input type="submit" value="submit now">
+        </div>
+        <br>
+        <!-- reset aur submit button per label nahi lagta hai -->
+    </form>
+</body>
+</html>
