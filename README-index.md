@@ -4,7 +4,7 @@ Yeh meri repository ki main `index.html` file ka documentation hai. Yeh mere HTM
 
 ## Key Features
 - **Project Gateway:** Is file se baaki saari topics aur practice files ka link connect hota hai.
-- **First Day Practice:** Isme HTML ka basic boiler-plate structure implement kiya gaya hai.
+- **First Day Practice:** Isme HTML ka basic structure implement kiya gaya hai.
 
 ## Tags Used in `index.html`
 - `<h1>` for the main page title.
