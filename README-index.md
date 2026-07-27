@@ -11,3 +11,6 @@ Yeh meri repository ki main `index.html` file ka documentation hai. Yeh mere HTM
 - `<p>` for introduction text.
 - `<button>` for creating a clickable button ("more info").
 - `<a>` (Anchor Tag) for linking external websites (YouTube link).
+
+## How to Run
+-index.html file ko browser mein open karein.
