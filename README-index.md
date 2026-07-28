@@ -7,7 +7,7 @@ Yeh meri repository ki main `index.html` file ka documentation hai. Yeh mere HTM
 - **First Day Practice:** Isme HTML ka basic structure implement kiya gaya hai.
 
 ## Tags Used in 'index.html'
-- `<h1>` for the main page title.
+- `<h1>` for the main heading.
 - `<p>` for introduction text.
 - `<button>` for creating a clickable button ("more info").
 - `<a>` (Anchor Tag) for linking external websites (YouTube link).
