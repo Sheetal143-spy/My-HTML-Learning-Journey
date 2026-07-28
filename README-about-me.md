@@ -1,4 +1,4 @@
-About Me - Project Documentation
+# About Me - Project Documentation
 
 Yeh meri `about-me.html` file ka detail documentation hai. Is project mein maine apna personal profile design kiya hai.
 
@@ -10,4 +10,4 @@ Yeh meri `about-me.html` file ka detail documentation hai. Is project mein maine
 - `<h1>`, `<p>` for profile introduction.
 
 ## How to Run
-- `index.html` file ko browser mein open kerein.
+- `index.html` file ko browser mai open kerein.
