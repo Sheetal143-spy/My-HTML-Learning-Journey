@@ -13,4 +13,4 @@ Yeh meri repository ki main `index.html` file ka documentation hai. Yeh mere HTM
 - `<a>` (Anchor Tag) for linking external websites (YouTube link).
 
 ## How to Run
-- `index.html` file ko browser mein open karein.
+- `index.html` file ko browser mai open karein.
